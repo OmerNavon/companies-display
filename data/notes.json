@@ -1,0 +1,18 @@
+[
+  {
+    "id": "4093e0ca-34db-49bb-a3b1-3e011c81a41a",
+    "companyId": 2,
+    "content": "Green energy test",
+    "isPrivate": false,
+    "userId": "dev-user",
+    "createdAt": "2025-12-08T10:43:36.560Z"
+  },
+  {
+    "id": "751e4f70-58b1-45b8-8b29-914ca0f8ec0e",
+    "companyId": 1,
+    "content": "test",
+    "isPrivate": false,
+    "userId": "dev-user",
+    "createdAt": "2025-12-08T13:44:03.377Z"
+  }
+]
