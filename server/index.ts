@@ -12,7 +12,7 @@ import {
   listNotesForCompany,
   updateNote,
 } from "./store";
-import { CreateNoteInput, UpdateNoteInput } from "../types";
+import { CreateNoteInput, UpdateNoteInput } from "../../types";
 
 type AuthedRequest<B = any, P = Record<string, string>> = Request<P, any, B> & {
   userId?: string;
